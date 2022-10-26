@@ -17,7 +17,7 @@ Effect: [1] R. C. Reed: The Superalloys: Fundamentals and Applications, Cambridg
 pp. 17–20.
 
 ### Article
-```python
+```Javascript
 @article{Jiang2019,
 author = {Jiang, Runbo and Mostafaei, Amir and Pauza, Joseph and Kantzos, Christopher and Rollett, Anthony D.},
 journal = {Mater. Sci. Eng. A},
