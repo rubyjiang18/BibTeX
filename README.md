@@ -47,3 +47,4 @@ Real Time Imaging II, pp. 77–85.
 1. order does not matter within most outside {}
 2. inside {}, both {} and "" work
 3. journal title has to be abbreviation
+4. FUNCTION {bbl.page} { "pp." } instead of FUNCTION {bbl.page} { "p." } in .bst file
