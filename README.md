@@ -40,7 +40,7 @@ pages="77-85"
 }
 ```
 
-Effect: P.-J. Chiang, R. Jiang, R. Cunningham, N. Parab, C. Zhao, K. Fezzaa, T. Sun, and A. D. Rollett: in Advanced423
+Effect: [30] P.-J. Chiang, R. Jiang, R. Cunningham, N. Parab, C. Zhao, K. Fezzaa, T. Sun, and A. D. Rollett: in Advanced423
 Real Time Imaging II, pp. 77–85.
 
 ### Note: 
