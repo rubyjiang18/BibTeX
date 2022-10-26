@@ -44,5 +44,6 @@ Effect: P.-J. Chiang, R. Jiang, R. Cunningham, N. Parab, C. Zhao, K. Fezzaa, T. 
 Real Time Imaging II, pp. 77–85.
 
 ### Note: 
-1. order does not matter within {}
-2. journal title has to be abbreviation
+1. order does not matter within most outside {}
+2. inside {}, both {} and "" work
+3. journal title has to be abbreviation
