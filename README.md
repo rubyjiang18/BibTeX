@@ -28,5 +28,9 @@ author="Chiang, Po-Ju and Jiang, Runbo and Cunningham, Ross and Parab, Niranjan 
 title="In Situ Characterization of Hot Cracking Using Dynamic X-Ray Radiography",
 booktitle="Advanced Real Time Imaging II",
 year="2019",
-pages="77-85",
+pages="77-85"
 }
+
+Note: 
+1. order does not matter within {}
+2. journal title has to be abbreviation
